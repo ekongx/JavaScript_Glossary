@@ -106,8 +106,6 @@ document节点是文档的根节点，每张网页都有自己的document节点�
 #### Element对象
 Element对象对应网页的HTML标签元素。每一个HTML标签元素，在DOM树上都会转化成一个Element节点对象（以下简称元素节点）。
 
-#### JavaScript引擎
-JavaScript引擎的主要作用是，读取网页中的JavaScript代码，对其处理后运行。
 
 
 ---
